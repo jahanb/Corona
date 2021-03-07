@@ -1,0 +1,39 @@
+table {
+  width: 100%;
+}
+.mat-form-field {
+  font-size: 14px;
+  margin-left: 150px;
+  width: 100%;
+}
+.mat-cell {
+  padding: 8px 8px 8px 0;
+  border: 1px solid #ffa600;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0 8px !important;
+}
+
+
+th {
+  /* row border */
+  border-bottom: 1px solid #ffa600;
+}
+
+td.mat-cell {
+  /* row padding */
+  padding: 20px 0;
+  border: 1px solid #ffa600; ;
+}
+
+tr.mat-row {
+  /* row border */
+  border: 1px solid #ffa600;
+}
+
+
+th.mat-sort-header-sorted {
+  color: black;
+}
